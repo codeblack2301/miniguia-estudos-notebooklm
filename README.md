@@ -1,2 +1,1 @@
-# miniguia-estudos-notebooklm
-nothing but a training
+A comprehensive record of my journey from zero knowledge to developer. This repository contains my progress through coding fundamentals (variables, loops, and functions), practice with Git version control, and small projects built to escape "tutorial hell
